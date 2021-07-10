@@ -3,6 +3,8 @@ import tkinter as tk
 LARGE_FONT = ("Verdana", 12)
 
 
+# setup interface
+
 class SeaofBTCapp(tk.Tk):
 
     def __init__(self, *args, **kwargs):
